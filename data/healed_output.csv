@@ -1,0 +1,15 @@
+transaction_id,customer_email,purchase_amount,purchase_date
+TRX001,alice@example.com,150.5,2026-06-01
+TRX002,bob.smith@company.org,200.0,2026-06-01
+TRX003,charlie.brown@test.com,99.99,2026-06-02
+TRX004,diana.prince@heroes.com,75.0,2026-06-03
+TRX005,eve.johnson@mail.net,320.45,2026-06-04
+TRX007,grace.lee@startup.io,88.0,2026-06-06
+TRX008,henry.ford@auto.com,1000.0,2026-06-07
+TRX009,isabel.martinez@corp.es,0.0,2026-06-08
+TRX010,jack.sparrow@pirate.sea,150.0,2026-06-09
+TRX011,kate.bishop@archery.com,60.25,2026-06-10
+TRX012,liam.neeson@action.movie,299.99,2026-06-11
+TRX013,maria.garcia@food.mx,45.0,2026-06-12
+TRX014,nick.fury@avengers.earth,500.0,2026-06-13
+TRX015,olivia.wilde@hollywood.us,125.9,2026-06-14

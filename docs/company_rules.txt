@@ -1,0 +1,13 @@
+Company Data Rules:
+
+Required columns for sales transactions:
+- transaction_id (must be a unique string)
+- customer_email (must be a valid email address)
+- purchase_amount (must be a positive number, no negative values)
+- purchase_date (must be in YYYY-MM-DD format)
+
+Additional quality rules:
+- No duplicate rows
+- No missing values in any column
+- Emails must contain '@' and a domain
+- purchase_amount cannot be negative
