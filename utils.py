@@ -116,7 +116,7 @@ def get_schema_mapping_via_groq(actual_cols, retriever):
     # Initialize Groq LLM (choose a fast model, e.g., llama3-8b-8192)
     llm = ChatGroq(
         groq_api_key=os.getenv("GROQ_API_KEY"),
-        model="meta-llama/llama-4-scout-17b-16e-instruct",
+        model="openai/gpt-oss-120b",
         temperature=0
     )
 
